@@ -1,2 +1,2 @@
 # Captcha Solver
-### A captcha Solver that handles images..
+A captcha Solver that handles images..
